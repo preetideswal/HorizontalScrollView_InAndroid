@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HorizontalScrollView</string>
+    <string name="scroll_an_click">Scroll an click...</string>
+    <string name="todo">TODO</string>
+</resources>
